@@ -1,1 +1,1 @@
-# Java_Coding_Statemets
+# Java_Coding_Statements
